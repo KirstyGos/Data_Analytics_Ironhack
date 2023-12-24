@@ -6,9 +6,9 @@ All labs and projects done for my data analytics/science bootcamp
 Lab | Customer Analysis
 
 **Unit 2 SQL**
-- Lab | SQL Intro
-- Lab | SQL Queries 2
-- Lab | SQL Queries 3
+-Lab | SQL Intro
+-Lab | SQL Queries 2
+-Lab | SQL Queries 3
 Lab | SQL Queries 4
 Lab | SQL Queries 5
 Lab | SQL Queries 6
