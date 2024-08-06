@@ -7,64 +7,64 @@ All labs and projects done for my data analytics/science bootcamp
 <a href ="https://github.com/KirstyGos/lab-customer-analysis-round-2">Lab | Customer Analysis Round 2</a> <br>
 
 **Unit 2 SQL** <br>
-Lab | SQL Intro <br>
-Lab | SQL Queries 2 <br>
-Lab | SQL Queries 3 <br>
-Lab | SQL Queries 4 <br>
-Lab | SQL Queries 5 <br>
-Lab | SQL Queries 6 <br>
-Lab | SQL Basics <br>
-Lab | SQL Queries 7 <br>
-Lab | SQL Queries 8 <br>
-Lab | SQL Queries 9 <br>
+<a href ="https://github.com/KirstyGos/lab-intro-sql">Lab | SQL Intro</a> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-2">Lab | SQL Queries 2</a> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-3">Lab | SQL Queries 3</a> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-4">Lab | SQL Queries 4</a> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-5">Lab | SQL Queries 5</a> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-6">Lab | SQL Queries 6</a> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-basics">Lab | SQL Basics</a> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-7">Lab | SQL Queries 7</a> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-8">Lab | SQL Queries 8</a> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-9">Lab | SQL Queries 9</a> <br>
 
 **Mini Project** <br>
-Mini Project | FIFA - MoneyBall
+<a href ="https://github.com/KirstyGos/project_FIFA_MoneyBall">Mini Project | FIFA - MoneyBall</a> <br>
 
 **Unit 3 SQL | ML** <br>
-Lab | SQL - JOIN <br>
-Lab | SQL Joins on multiple tables <br>
-Lab | SQL Self and cross join <br>
-Lab | SQL Subqueries <br>
-Lab | SQL Advanced queries <br>
-Lab | Imbalanced data
+<a href ="">Lab | SQL - JOIN</a> <br>
+<a href ="">Lab | SQL Joins on multiple tables<a/> <br>
+<a href ="">Lab | SQL Self and cross join<a/> <br>
+<a href ="">Lab | SQL Subqueries<a/> <br>
+<a href ="">Lab | SQL Advanced queries<a/> <br>
+<a href ="">Lab | Imbalanced data</a> <br>
 
 **Unit 4 ML** <br>
-Lab | Cleaning numerical data <br>
-Lab | Cleaning categorical data <br>
-Lab | Feature extraction <br>
-Lab | Data cleaning and wrangling <br>
-Lab | Comparing regression models <br>
-Lab | Random variable distributions <br>
-Lab | Getting started with Tableau <br>
+<a href ="">Lab | Cleaning numerical data</a> <br>
+<a href ="">Lab | Cleaning categorical data</a> <br>
+<a href ="">Lab | Feature extraction</a> <br>
+<a href ="">Lab | Data cleaning and wrangling</a> <br>
+<a href ="">Lab | Comparing regression models</a> <br>
+<a href ="">Lab | Random variable distributions</a> <br>
+<a href ="">Lab | Getting started with Tableau</a> <br>
 
 **Unit 5 Mid Project** <br>
-Binary Classification | Credit Card Marketing
+<a href ="">Binary Classification | Credit Card Marketing</a> <br>
 
 **Unit 6 Advanced Tableau | Advanced SQL | Macros Excel** <br>
-Lab | Tableau - Manipulating data from multiple sources <br>
-Lab | LOD expressions and Dashboards <br>
-Lab | Aggregation Revisited - Subqueries <br>
-Lab | Stored procedures
+<a href ="">Lab | Tableau - Manipulating data from multiple sources</a> <br>
+<a href ="">Lab | LOD expressions and Dashboards</a> <br>
+<a href ="">Lab | Aggregation Revisited - Subqueries</a> <br>
+<a href ="">Lab | Stored procedures</a> <br>
 
 **Streamlit Project**
 
 **Unit 7 Feature sel | Engineering | STATS P-VALUES, ANOVA | Decision Trees | Random Forests** <br>
-Lab | Revisiting Machine Learning Case Study <br>
-Lab | Feature Engineering <br>
-Lab | Inferential statistics <br>
-Lab | Inferential statistics - T-test & P-value <br>
-Lab | Inferential statistics - ANOVA <br>
-Lab | Handling Data Imbalance in Classification Models <br>
-Lab | Cross Validation <br>
-Lab | Random Forests
+<a href ="">Lab | Revisiting Machine Learning Case Study</a> <br>
+<a href=""Lab | Feature Engineering</a> <br>
+<a href="">Lab | Inferential statistics</a> <br>
+<a href ="">Lab | Inferential statistics - T-test & P-value</a> <br>
+<a href = "">Lab | Inferential statistics - ANOVA</a> <br>
+<a href ="">Lab | Handling Data Imbalance in Classification Models</a> <br>
+<a href ="">Lab | Cross Validation</a> <br>
+<a href ="">Lab | Random Forests</a> <br>
 
 **Unit 8 HTML | Webscraping | API | Clustering** <br>
-Lab | Web Scraping Single Page <br>
-Lab | Web Scraping Multiple Pages <br>
-Lab | Working with APIs <br>
-Lab | API wrappers - Create your collection of songs & audio features <br>
-Lab | Unsupervised learning intro
+<a href ="">Lab | Web Scraping Single Page</a> <br>
+<a href ="">Lab | Web Scraping Multiple Pages</a> <br>
+<a href ="">Lab | Working with APIs</a> <br>
+<a href ="">Lab | API wrappers - Create your collection of songs & audio features</a> <br>
+<a href ="">Lab | Unsupervised learning intro</a> <br>
 
 **Unit 9 Final Project** <br>
-Final Project | Linear Regression | Predicting Employee Attrition
+<a herf ="">Final Project | Linear Regression | Predicting Employee Attrition</a>
