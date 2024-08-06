@@ -68,4 +68,4 @@ All labs and projects done for my data analytics/science bootcamp
 <a href ="https://github.com/KirstyGos/lab-unsupervised-learning-intro">Lab | Unsupervised learning intro</a> <br>
 
 **Unit 9 Final Project** <br>
-<a herf ="https://github.com/KirstyGos/HR_Analytics_Attrition">Final Project | Linear Regression | Predicting Employee Attrition</a>
+<a href ="https://github.com/KirstyGos/HR_Analytics_Attrition">Final Project | Linear Regression | Predicting Employee Attrition</a>
