@@ -22,12 +22,12 @@ All labs and projects done for my data analytics/science bootcamp
 <a href ="https://github.com/KirstyGos/project_FIFA_MoneyBall">Mini Project | FIFA - MoneyBall</a> <br>
 
 **Unit 3 SQL | ML** <br>
-<a href ="">Lab | SQL - JOIN</a> <br>
-<a href ="">Lab | SQL Joins on multiple tables<a/> <br>
-<a href ="">Lab | SQL Self and cross join<a/> <br>
-<a href ="">Lab | SQL Subqueries<a/> <br>
-<a href ="">Lab | SQL Advanced queries<a/> <br>
-<a href ="">Lab | Imbalanced data</a> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-join">Lab | SQL - JOIN</a> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-join-multiple-tables">Lab | SQL Joins on multiple tables<a/> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-self-cross-join">Lab | SQL Self and cross join<a/> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-subqueries">Lab | SQL Subqueries<a/> <br>
+<a href ="https://github.com/KirstyGos/lab-sql-advanced-queries">Lab | SQL Advanced queries<a/> <br>
+<a href ="https://github.com/KirstyGos/lab-imbalanced-data">Lab | Imbalanced data</a> <br>
 
 **Unit 4 ML** <br>
 <a href ="">Lab | Cleaning numerical data</a> <br>
