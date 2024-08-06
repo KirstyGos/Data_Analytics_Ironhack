@@ -30,41 +30,42 @@ All labs and projects done for my data analytics/science bootcamp
 <a href ="https://github.com/KirstyGos/lab-imbalanced-data">Lab | Imbalanced data</a> <br>
 
 **Unit 4 ML** <br>
-<a href ="">Lab | Cleaning numerical data</a> <br>
-<a href ="">Lab | Cleaning categorical data</a> <br>
-<a href ="">Lab | Feature extraction</a> <br>
-<a href ="">Lab | Data cleaning and wrangling</a> <br>
-<a href ="">Lab | Comparing regression models</a> <br>
-<a href ="">Lab | Random variable distributions</a> <br>
-<a href ="">Lab | Getting started with Tableau</a> <br>
+<a href ="https://github.com/KirstyGos/lab-cleaning-numerical-data">Lab | Cleaning numerical data</a> <br>
+<a href ="https://github.com/KirstyGos/lab-cleaning-categorical-data">Lab | Cleaning categorical data</a> <br>
+<a href ="https://github.com/KirstyGos/lab-feature-extraction">Lab | Feature extraction</a> <br>
+<a href ="https://github.com/KirstyGos/lab-data-cleaning-and-wrangling">Lab | Data cleaning and wrangling</a> <br>
+<a href ="https://github.com/KirstyGos/lab-comparing-regression-models">Lab | Comparing regression models</a> <br>
+<a href ="https://github.com/KirstyGos/lab-random-variable-distributions">Lab | Random variable distributions</a> <br>
+<a href ="https://github.com/KirstyGos/lab-getting-started-with-tableau">Lab | Getting started with Tableau</a> <br>
 
 **Unit 5 Mid Project** <br>
-<a href ="">Binary Classification | Credit Card Marketing</a> <br>
+<a href ="https://github.com/KirstyGos/data_mid_bootcamp_project_regression">Regression | House Price Predictor</a> <br>
 
 **Unit 6 Advanced Tableau | Advanced SQL | Macros Excel** <br>
-<a href ="">Lab | Tableau - Manipulating data from multiple sources</a> <br>
-<a href ="">Lab | LOD expressions and Dashboards</a> <br>
-<a href ="">Lab | Aggregation Revisited - Subqueries</a> <br>
-<a href ="">Lab | Stored procedures</a> <br>
+<a href ="https://github.com/KirstyGos/lab-tableau-manipulating-data-from-multiple-sources">Lab | Tableau - Manipulating data from multiple sources</a> <br>
+<a href ="https://github.com/KirstyGos/lab-lod-expressions-dashboards">Lab | LOD expressions and Dashboards</a> <br>
+<a href ="https://github.com/KirstyGos/lab-aggregation-revisited-subqueries">Lab | Aggregation Revisited - Subqueries</a> <br>
+<a href ="https://github.com/KirstyGos/lab-aggregation-revisited-subqueries">Lab | Stored procedures</a> <br>
 
 **Streamlit Project**
+<a href =""> WHERE IS THIS?</a> <br>
 
 **Unit 7 Feature sel | Engineering | STATS P-VALUES, ANOVA | Decision Trees | Random Forests** <br>
-<a href ="">Lab | Revisiting Machine Learning Case Study</a> <br>
-<a href=""Lab | Feature Engineering</a> <br>
-<a href="">Lab | Inferential statistics</a> <br>
-<a href ="">Lab | Inferential statistics - T-test & P-value</a> <br>
-<a href = "">Lab | Inferential statistics - ANOVA</a> <br>
-<a href ="">Lab | Handling Data Imbalance in Classification Models</a> <br>
-<a href ="">Lab | Cross Validation</a> <br>
-<a href ="">Lab | Random Forests</a> <br>
+<a href ="https://github.com/KirstyGos/lab-revisiting-machine-learning">Lab | Revisiting Machine Learning Case Study</a> <br>
+<a href="https://github.com/KirstyGos/lab-feature-engineering"Lab | Feature Engineering</a> <br>
+<a href="https://github.com/KirstyGos/lab-inferential-statistics">Lab | Inferential statistics</a> <br>
+<a href ="https://github.com/KirstyGos/lab-t-tests-p-values">Lab | Inferential statistics - T-test & P-value</a> <br>
+<a href = "https://github.com/KirstyGos/lab-inferential-statistics-anova">Lab | Inferential statistics - ANOVA</a> <br>
+<a href ="https://github.com/KirstyGos/lab-handling-data-imbalance-classification">Lab | Handling Data Imbalance in Classification Models</a> <br>
+<a href ="https://github.com/KirstyGos/lab-cross-validation">Lab | Cross Validation</a> <br>
+<a href ="https://github.com/KirstyGos/lab-random-forests">Lab | Random Forests</a> <br>
 
 **Unit 8 HTML | Webscraping | API | Clustering** <br>
-<a href ="">Lab | Web Scraping Single Page</a> <br>
-<a href ="">Lab | Web Scraping Multiple Pages</a> <br>
-<a href ="">Lab | Working with APIs</a> <br>
-<a href ="">Lab | API wrappers - Create your collection of songs & audio features</a> <br>
-<a href ="">Lab | Unsupervised learning intro</a> <br>
+<a href ="https://github.com/KirstyGos/lab-web-scraping-single-page">Lab | Web Scraping Single Page</a> <br>
+<a href ="https://github.com/KirstyGos/lab-web-scraping-multiple-pages">Lab | Web Scraping Multiple Pages</a> <br>
+<a href ="https://github.com/KirstyGos/lab-working-with-api">Lab | Working with APIs</a> <br>
+<a href ="https://github.com/KirstyGos/lab-api-wrappers">Lab | API wrappers - Create your collection of songs & audio features</a> <br>
+<a href ="https://github.com/KirstyGos/lab-unsupervised-learning-intro">Lab | Unsupervised learning intro</a> <br>
 
 **Unit 9 Final Project** <br>
-<a herf ="">Final Project | Linear Regression | Predicting Employee Attrition</a>
+<a herf ="https://github.com/KirstyGos/HR_Analytics_Attrition">Final Project | Linear Regression | Predicting Employee Attrition</a>
