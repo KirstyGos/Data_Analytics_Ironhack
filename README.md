@@ -3,7 +3,8 @@ All labs and projects done for my data analytics/science bootcamp
 
 
 **Unit 1 Intro | Python | Machine Learning (ML) | SQL** <br>
-<a>Lab | Customer Analysis</a>
+Lab | Customer Analysis <br>
+<a href ="https://github.com/KirstyGos/lab-customer-analysis-round-1">Lab | Customer Analysis Round 1</a> <br> 
 
 **Unit 2 SQL** <br>
 Lab | SQL Intro <br>
