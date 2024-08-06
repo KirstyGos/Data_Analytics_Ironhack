@@ -66,4 +66,4 @@ Lab | API wrappers - Create your collection of songs & audio features <br>
 Lab | Unsupervised learning intro
 
 **Unit 9 Final Project** <br>
-Final Project | Linear Regression | Coral Spawning
+Final Project | Linear Regression | Predicting Employee Attrition
