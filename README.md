@@ -52,7 +52,7 @@ All labs and projects done for my data analytics/science bootcamp
 
 **Unit 7 Feature sel | Engineering | STATS P-VALUES, ANOVA | Decision Trees | Random Forests** <br>
 <a href ="https://github.com/KirstyGos/lab-revisiting-machine-learning">Lab | Revisiting Machine Learning Case Study</a> <br>
-<a href="https://github.com/KirstyGos/lab-feature-engineering"Lab | Feature Engineering</a> <br>
+<a href="https://github.com/KirstyGos/lab-feature-engineering">Lab | Feature Engineering</a> <br>
 <a href="https://github.com/KirstyGos/lab-inferential-statistics">Lab | Inferential statistics</a> <br>
 <a href ="https://github.com/KirstyGos/lab-t-tests-p-values">Lab | Inferential statistics - T-test & P-value</a> <br>
 <a href = "https://github.com/KirstyGos/lab-inferential-statistics-anova">Lab | Inferential statistics - ANOVA</a> <br>
